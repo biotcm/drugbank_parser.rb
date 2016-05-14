@@ -1,0 +1,13 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    libxml-ruby (2.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  libxml-ruby
+
+BUNDLED WITH
+   1.11.2
