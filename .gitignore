@@ -1,0 +1,7 @@
+# Ignore input
+drugbank.xml
+
+# Ignore outputs
+drugs.txt
+drug2targets.txt
+target2drugs.txt
